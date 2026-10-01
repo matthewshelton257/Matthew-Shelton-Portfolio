@@ -11,6 +11,7 @@ I connect customer insight with acquisition, activation, engagement, conversion 
 
 | Project | What you can explore | Type |
 | :--- | :--- | :--- |
+| **[AI Lifecycle Studio](ai-lifecycle-studio/README.md)** | Interactive sample workflow, failure scenarios, quality checks and campaign exports | Working static demo |
 | **[Ray: from first workout to repeatable habit](case-studies/ray.md)** | Customer hypothesis, first-week messages, activation experiments and a 90-day measurement plan | Independent strategy |
 | **[Heelys: connecting insight to commercial execution](case-studies/consumer-growth.md#heelys--consumer-growth)** | My role in initiatives contributing to sales growth and sell-through improvement | Professional experience |
 | **[DVS: international go-to-market](case-studies/consumer-growth.md#dvs--international-go-to-market)** | A relaunch across 12 distributor markets and three product seasons | Professional experience |
@@ -35,7 +36,7 @@ I’m interested in the connection between the promise that earns attention and 
 
 ## Growth Lab
 
-I’m developing a space for practical AI workflows, growth teardowns and documented experiments. Future entries will include the problem, a usable deliverable, evaluation criteria and what I learned. Completed projects will be added as they are built and tested.
+[AI Lifecycle Studio](ai-lifecycle-studio/README.md) is the first working project: a free sample-mode campaign workflow with rule-based quality checks, a human-review gate and local exports. It makes no live AI calls and claims no campaign results. Its [tool-testing journal](ai-lifecycle-studio/docs/tool-journal.md) provides a repeatable template for future hands-on comparisons.
 
 ## Relevant learning
 
