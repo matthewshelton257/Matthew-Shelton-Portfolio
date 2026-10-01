@@ -2,6 +2,54 @@
 
 Independent 90-day Growth & Lifecycle Strategy. Based on public information. Not commissioned by or affiliated with Ray. All journeys, messages and experiments below are proposed concepts. They are not shipped product features or measured results.
 
+## Lifecycle email mockups
+
+Designed by Matthew Shelton in Figma. These are independent visual concepts, not official Ray emails, deployed campaigns or measured results.
+
+[Open the full Figma file with desktop and mobile layouts](https://www.figma.com/design/e99rFNf5MD8VNKjVROExqw/?node-id=0-1)
+
+### 01 · Welcome: first-workout activation
+
+<img src="../assets/ray/welcome-mobile.png" alt="Mobile welcome email concept: Your first workout. Your kind of day. Orange Start my first workout button followed by a conversational workout prompt and three getting-started steps." width="360">
+
+**Design rationale:** One primary action, a concrete prompt about available time and equipment and three simple steps make the first workout feel approachable.
+
+| Proposed campaign element | Specification |
+| :--- | :--- |
+| Subject | Your first workout starts with you |
+| Preheader | Tell Ray what fits today. Let’s get moving. |
+| Eligibility | Once after signup if no workout is completed and the user is eligible for marketing email. Recheck immediately before sending. |
+| Destination | Verified first-workout app link with a web fallback |
+| Test | Randomized holdout versus the current welcome journey |
+| Primary outcome | First workout completed within 48 hours of assignment |
+| Secondary outcome | Second workout within seven days |
+
+### 02 · Return: an easier next session
+
+<img src="../assets/ray/return-desktop.png" alt="Desktop return-to-training email concept: Life happens. Ray fits. Orange Find my next workout button and a bold 20-minute starting-point illustration." width="600">
+
+**Design rationale:** Supportive copy and a manageable starting point invite a return without guilt, discounts or fabricated urgency. The 20-minute reference is a creative example, not a universal training recommendation.
+
+| Proposed campaign element | Specification |
+| :--- | :--- |
+| Subject | Life happens. Ray fits. |
+| Preheader | A shorter session can be your next step. |
+| Eligibility | Pilot at seven days without a workout after at least one completed session. Require active access and marketing eligibility. |
+| Suppression | Return to training, paused access, cancellation or unsubscribe |
+| Destination | Verified app link to the current workout plan |
+| Test | Randomized holdout |
+| Primary outcome | Completed workout within 72 hours of assignment |
+| Secondary outcome | Another workout within seven days |
+| Guardrails | Unsubscribes and complaints |
+
+These email-specific evaluation windows are proposed test definitions. They sit alongside the broader seven-day activation hypothesis below and have not been validated.
+
+### Design and production notes
+
+The source file includes 600px desktop and 360px mobile layouts for both concepts. The exports here show welcome on mobile and return on desktop; all four layouts are available in Figma.
+
+Poppins is a concept font substitute and the editable RAY wordmark is a typographic study, not the official logo. A production build would use approved brand assets, live HTML text and buttons, verified destination links and connected preference, unsubscribe and postal-address fields. Email-client rendering and dark mode still need validation.
+
 ### The strategic question
 
 How could Ray help someone turn an intention to exercise into a second workout, then a routine that survives a busy week?
@@ -109,6 +157,6 @@ Proposed events, subject to instrumentation review: onboarding completed, workou
 
 ## Project status
 
-Strategy draft. No user interviews, live experiments or internal analytics are claimed. Next steps are to document a current product walkthrough, validate the target audience and turn the proposed lifecycle into a working demonstration.
+Strategy draft with Figma welcome and return email concepts. No user interviews, live experiments or internal analytics are claimed. Next steps are to document a current product walkthrough, validate the target audience and turn the proposed lifecycle into a working demonstration.
 
 [Back to portfolio](../README.md)
