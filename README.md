@@ -38,6 +38,10 @@ I’m interested in the connection between the promise that earns attention and 
 
 [AI Lifecycle Studio](ai-lifecycle-studio/README.md) is the first working project: a free sample-mode campaign workflow with rule-based quality checks, a human-review gate and local exports. It makes no live AI calls and claims no campaign results. Its [tool-testing journal](ai-lifecycle-studio/docs/tool-journal.md) provides a repeatable template for future hands-on comparisons.
 
+### Next investigation
+
+[Evaluating AI for Lifecycle Marketing](ai-evaluation/README.md) contains a fixed test prompt, scoring rubric and evidence-capture templates. **Status: ready to run; no model comparison results yet.**
+
 ## Relevant learning
 
 | Certification | Issuer | Completed |
