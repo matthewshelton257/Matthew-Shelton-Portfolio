@@ -1,5 +1,13 @@
 # Selected product & lifecycle copy
 
+Two additional exercises explore product explanation, interface writing and lifecycle messaging. These new samples were generated with AI at Matthew's direction. They are transparent practice work, not shipped campaigns or evidence of independent writing authorship.
+
+| Project | Writing you can review | Status |
+| :--- | :--- | :--- |
+| [Frameplay: see where your still could go](frameplay.md) | AI creative-tool landing page, onboarding, recovery states, activation email, feature launch, ads and a product-film script | Fictional product · AI-generated speculative exercise |
+| [FocusFlow: a plan that leaves room for real life](focusflow.md) | Productivity landing page, interface copy, launch email, return email and ad variants | Fictional product · AI-generated speculative exercise |
+| [Ray: two moments, one easier next step](#ray--two-moments-one-easier-next-step) | Welcome and return emails with Figma mockups | Independent concepts · Not deployed |
+
 ## Ray · Two moments. One easier next step.
 
 A welcome email that makes the first workout feel approachable. A return email that gives someone a way back after a busy week.
