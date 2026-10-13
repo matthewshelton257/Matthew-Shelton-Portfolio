@@ -5,14 +5,14 @@
 
 I connect customer insight with acquisition, activation, engagement, conversion and retention. My 6+ years in consumer growth span campaign strategy, international GTM and lifecycle programs. I’m bringing that full-customer-journey perspective to technology through experimentation, analytics, CRM automation and AI.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/mattshelton2000/)
+**[View selected product & lifecycle copy](copywriting/README.md)** · [Connect on LinkedIn](https://www.linkedin.com/in/mattshelton2000/)
 
 ## Selected work
 
 | Project | What you can explore | Type |
 | :--- | :--- | :--- |
+| **[Ray: welcome and return email concepts](copywriting/README.md)** | Actual copy, Figma mockups, audience context and proposed measurement | Independent writing & design concepts |
 | **[AI Lifecycle Studio](ai-lifecycle-studio/README.md)** | Interactive sample workflow, failure scenarios, quality checks and campaign exports | Working static demo |
-| **[Ray: from first workout to repeatable habit](case-studies/ray.md)** | Customer hypothesis, first-week messages, activation experiments and a 90-day measurement plan | Independent strategy |
 | **[Heelys: connecting insight to commercial execution](case-studies/consumer-growth.md#heelys--consumer-growth)** | My role in initiatives contributing to sales growth and sell-through improvement | Professional experience |
 | **[DVS: international go-to-market](case-studies/consumer-growth.md#dvs--international-go-to-market)** | A relaunch across 12 distributor markets and three product seasons | Professional experience |
 
