@@ -11,6 +11,7 @@ I connect customer insight with acquisition, activation, engagement, conversion 
 
 | Project | What you can explore | Type |
 | :--- | :--- | :--- |
+| **[Customer Voice → Campaign Brief](https://github.com/matthewshelton257/customer-voice-to-campaign)** | Review evidence, product-fact references, campaign drafts and claim checks | Working offline workflow with optional local AI adapter |
 | **[Ray: welcome and return email concepts](copywriting/README.md)** | Actual copy, Figma mockups, audience context and proposed measurement | Independent writing & design concepts |
 | **[AI Lifecycle Studio](ai-lifecycle-studio/README.md)** | Interactive sample workflow, failure scenarios, quality checks and campaign exports | Working static demo |
 | **[Heelys: connecting insight to commercial execution](case-studies/consumer-growth.md#heelys--consumer-growth)** | My role in initiatives contributing to sales growth and sell-through improvement | Professional experience |
@@ -35,6 +36,8 @@ These outcomes come from separate bodies of work. They are not results of a sing
 I’m interested in the connection between the promise that earns attention and the experience that earns a return visit. My work brings together customer research, audience segmentation, creative strategy, lifecycle messaging and performance analysis.
 
 ## Growth Lab
+
+[Customer Voice → Campaign Brief](https://github.com/matthewshelton257/customer-voice-to-campaign) turns synthetic customer reviews into evidence-linked messaging and a visual report. The free default uses transparent rules and templates. An optional local-model adapter is included; live model inference has not been verified. [Read the sample brief](https://github.com/matthewshelton257/customer-voice-to-campaign/blob/main/examples/brief.md).
 
 [AI Lifecycle Studio](ai-lifecycle-studio/README.md) is the first working project: a free sample-mode campaign workflow with rule-based quality checks, a human-review gate and local exports. It makes no live AI calls and claims no campaign results. Its [tool-testing journal](ai-lifecycle-studio/docs/tool-journal.md) provides a repeatable template for future hands-on comparisons.
 
