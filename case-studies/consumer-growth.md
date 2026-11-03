@@ -21,16 +21,19 @@ Matthew led the international DVS relaunch across 12 distributor markets and thr
 
 This experience brings a practical perspective on scaling: connect a shared brand direction with the needs of individual markets, partners and customer journeys. The public summary does not claim market-by-market outcomes or disclose internal campaign data.
 
-## Andrews University · Community and audience growth
+## Simple Shoes · Footwear brand experience
 
-Matthew managed integrated digital and lifecycle programs across domestic and international audiences, connecting social, web, email and community channels.
+Simple Shoes is part of Matthew's consumer-brand background. This portfolio does not attribute the Heelys or DVS results to Simple Shoes.
 
-- Targeted campaign work generated 10,000+ social interactions in its first month.
-- Community and partnership programs contributed to 15% local-business engagement growth.
-- Audience-specific digital campaigns and localized messaging contributed to 8% international-awareness growth.
+## Freelance · Growth and lifecycle projects
 
-These are separate reported outcomes with distinct measurement contexts.
+Independent project work spans customer research, acquisition strategy, lifecycle messaging and campaign development. Selected work includes:
 
+- [Pango](pango.md): account research, acquisition campaign drafts, Figma designs and a proposed outreach pilot.
+- [Illume](illume.md): a product walkthrough, activation recommendations, email and landing-page designs and an experiment brief.
+- [Ray](ray.md): a 90-day growth and lifecycle strategy with Figma email concepts.
+
+Each project page distinguishes completed research and creative deliverables from proposed execution. These projects do not claim launched campaigns or measured growth results.
 
 ## Further case-study development
 
