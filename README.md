@@ -3,47 +3,57 @@
 # Matthew Shelton
 ### Growth & Lifecycle Marketer
 
-I connect customer insight with acquisition, activation, engagement, conversion and retention. My 6+ years in consumer growth span campaign strategy, international GTM and lifecycle programs. I’m bringing that full-customer-journey perspective to technology through experimentation, analytics, CRM automation and AI.
+I connect customer insight with acquisition, activation, conversion and retention. My 6+ years in consumer growth span integrated campaigns, international go-to-market work and cross-functional execution. My independent projects apply that experience to lifecycle strategy, experimentation and AI-assisted marketing tools.
 
-**[View selected product & lifecycle copy](copywriting/README.md)** · [Connect on LinkedIn](https://www.linkedin.com/in/mattshelton2000/)
+**[Start here: selected work for growth marketing](START-HERE.md)** · [LinkedIn](https://www.linkedin.com/in/mattshelton2000/)
 
-## Selected work
+## Commercial experience
 
-| Project | What you can explore | Type |
-| :--- | :--- | :--- |
-| **[Customer Voice → Campaign Brief](https://github.com/matthewshelton257/customer-voice-to-campaign)** | Review evidence, product-fact references, campaign drafts and claim checks | Working offline workflow with optional local AI adapter |
-| **[Ray: welcome and return email concepts](copywriting/README.md)** | Actual copy, Figma mockups, audience context and proposed measurement | Independent writing & design concepts |
-| **[AI Lifecycle Studio](ai-lifecycle-studio/README.md)** | Interactive sample workflow, failure scenarios, quality checks and campaign exports | Working static demo |
-| **[Heelys: connecting insight to commercial execution](case-studies/consumer-growth.md#heelys--consumer-growth)** | My role in initiatives contributing to sales growth and sell-through improvement | Professional experience |
-| **[DVS: international go-to-market](case-studies/consumer-growth.md#dvs--international-go-to-market)** | A relaunch across 12 distributor markets and three product seasons | Professional experience |
-
-## Selected outcomes
-
-| Context | Reported outcome |
+| Work | Reported contribution |
 | :--- | :--- |
-| Heelys / BBC International | Initiatives contributed to **100%+ sales growth** and **75%+ sell-through improvement** |
-| DVS international relaunch | **12 markets**, **three product seasons** and work contributing to **150%+ brand-awareness growth** |
-| Andrews University | **10,000+ social interactions** in the first month of targeted campaign work |
-| Andrews University community programs | **15% local-business engagement growth** |
-| Andrews University international campaigns | **8% international-awareness growth** |
+| **Heelys / BBC International** | Integrated growth initiatives contributing to **100%+ sales growth** and **75%+ sell-through improvement** |
+| **DVS international relaunch** | **12 distributor markets**, **three product seasons** and work contributing to **150%+ brand-awareness growth** |
+| **Andrews University** | **10,000+ social interactions** in the first month of targeted campaign work |
 
-These outcomes come from separate bodies of work. They are not results of a single experiment or claims of sole attribution. Ray is an independent proposal with no claimed performance results.
+These are separate reported outcomes from professional work, not isolated experiment results or claims of sole attribution. [Read the experience summaries](case-studies/consumer-growth.md).
+
+## Selected projects
+
+### 01 · Customer Voice → Campaign Brief
+**Working tool · AI-assisted development · Synthetic data**
+
+Turn customer-review text into a reviewable messaging brief while keeping customer needs separate from product capabilities. The workflow preserves source quotes, rejects invalid references and declines to draft when evidence is too thin.
+
+The default runs offline with rules and templates. An optional local-model adapter is included; live inference remains unverified. The repository includes sample outputs and automated tests.
+
+**[Read the sample output](https://github.com/matthewshelton257/customer-voice-to-campaign/blob/main/examples/brief.md)** · [Explore the tool](https://github.com/matthewshelton257/customer-voice-to-campaign)
+
+### 02 · Ray: from first workout to repeat behavior
+**Independent growth & lifecycle strategy · Not commissioned or deployed**
+
+A proposed 90-day plan connecting acquisition promises with activation, repeat use and return journeys. Includes behavioral email triggers, suppression rules, Figma concepts and experiment definitions that measure completed actions.
+
+**[View the strategy and email mockups](case-studies/ray.md)**
+
+### 03 · AI Lifecycle Studio
+**Working workflow demo · Authored samples · No live AI calls**
+
+Inspect a three-email activation sequence, introduce deliberate failures and review the resulting checks before exporting a draft. Changing inputs resets approval, making the human-review step part of the workflow.
+
+**[Explore the demo and walkthrough](ai-lifecycle-studio/README.md)**
 
 ## How I approach growth
 
-**Understand the customer → identify friction → define a hypothesis → test → measure → improve.**
+Start with the customer problem. Define the behavior that would demonstrate value. Connect acquisition and lifecycle messaging to that behavior, then measure the outcome.
 
-I’m interested in the connection between the promise that earns attention and the experience that earns a return visit. My work brings together customer research, audience segmentation, creative strategy, lifecycle messaging and performance analysis.
+I’m interested in work that combines customer research, practical automation and clear decisions about what to test next. My portfolio distinguishes professional outcomes from independent proposals and working demonstrations.
 
-## Growth Lab
+<details>
+<summary>Additional writing, learning and experiments</summary>
 
-[Customer Voice → Campaign Brief](https://github.com/matthewshelton257/customer-voice-to-campaign) turns synthetic customer reviews into evidence-linked messaging and a visual report. The free default uses transparent rules and templates. An optional local-model adapter is included; live model inference has not been verified. [Read the sample brief](https://github.com/matthewshelton257/customer-voice-to-campaign/blob/main/examples/brief.md).
+[Product and lifecycle copy](copywriting/README.md) includes Ray concepts plus clearly labeled AI-generated exercises for fictional products.
 
-[AI Lifecycle Studio](ai-lifecycle-studio/README.md) is the first working project: a free sample-mode campaign workflow with rule-based quality checks, a human-review gate and local exports. It makes no live AI calls and claims no campaign results. Its [tool-testing journal](ai-lifecycle-studio/docs/tool-journal.md) provides a repeatable template for future hands-on comparisons.
-
-### Next investigation
-
-[Evaluating AI for Lifecycle Marketing](ai-evaluation/README.md) contains a fixed test prompt, scoring rubric and evidence-capture templates. **Status: ready to run; no model comparison results yet.**
+[AI evaluation plan](ai-evaluation/README.md) contains a test prompt, rubric and evidence-capture templates. It is prepared for future testing; no model-comparison results are claimed.
 
 ## Relevant learning
 
@@ -57,3 +67,7 @@ I’m interested in the connection between the promise that earns attention and 
 | Claude Marketing | Claude Marketers | September 2026 |
 
 Explore my background and credentials on [LinkedIn](https://www.linkedin.com/in/mattshelton2000/).
+
+</details>
+
+**Let’s talk about growth, lifecycle marketing and practical AI workflows.** [Connect on LinkedIn](https://www.linkedin.com/in/mattshelton2000/).
