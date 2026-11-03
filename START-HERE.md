@@ -13,7 +13,7 @@ A focused footwear and apparel acquisition package: **ten researched candidate a
 
 The project connects public account observations to specific conversation openings, then defines qualification, demo handoffs and a four-week operating plan. Campaign drafts and research were prepared with AI assistance. This is an independent proposal, not a launched Pango engagement.
 
-**[Read the case study](case-studies/pango.md)** · [See the account research](case-studies/pango/prospect-research.md) · [Read the campaign copy](case-studies/pango/campaign-playbook.md)
+**[View the Figma designs](https://www.figma.com/design/BxZFyUx1DTxEwEXugZwpEe?node-id=2-2)** · **[Read the case study](case-studies/pango.md)** · [See the account research](case-studies/pango/prospect-research.md) · [Read the campaign copy](case-studies/pango/campaign-playbook.md)
 
 ## 2. Illume · Product activation
 
@@ -21,7 +21,7 @@ A hands-on product walkthrough followed by **onboarding copy, Signals empty-stat
 
 Matthew tested the path from a proactive insight to a conversational chart request. The proposal separates observed behavior from unresolved questions and measures meaningful replies and subsequent useful interactions. The written project was developed with AI assistance. No production changes or lift claimed.
 
-**[Read the case study](case-studies/illume.md)** · [See the copy pack](case-studies/illume/message-and-interface-copy.md) · [Inspect the evidence and experiment](case-studies/illume/experiment-and-evidence.md)
+**[View the Figma designs](https://www.figma.com/design/Rhk6OdhcG6vIbMKSTIRBio?node-id=4-136)** · **[Read the case study](case-studies/illume.md)** · [See the copy pack](case-studies/illume/message-and-interface-copy.md) · [Inspect the evidence and experiment](case-studies/illume/experiment-and-evidence.md)
 
 ## 3. Ray · Lifecycle and repeat behavior
 
@@ -40,11 +40,5 @@ These are reported contributions across professional initiatives, not outcomes o
 ## Additional building work
 
 [Customer Voice → Campaign Brief](https://github.com/matthewshelton257/customer-voice-to-campaign) and [AI Lifecycle Studio](ai-lifecycle-studio/README.md) provide working examples of evidence checks, campaign structure and review workflows. Their default modes are deterministic demonstrations, with no live AI calls or business-impact claims.
-
-## Relevance to a growth role at Sumble
-
-The selected projects show account research, campaign development, product-journey analysis and lifecycle experiment design. The emphasis on source-backed observations is relevant to Sumble's stated focus on traceable account intelligence. [Sumble overview](https://sumble.com/about).
-
-These are examples to discuss, not claims of a Sumble integration or production B2B SaaS outcomes.
 
 [Contact Matthew](https://www.linkedin.com/in/mattshelton2000/)

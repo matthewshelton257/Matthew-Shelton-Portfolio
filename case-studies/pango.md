@@ -9,10 +9,27 @@ A prepared footwear and apparel acquisition project connecting Matthew's consume
 
 **Contribution:** Matthew selected the opportunity, shaped the offer around footwear and apparel and reported sending the initial founder introduction. Research compilation, campaign drafts and Notion project materials were developed with AI assistance.
 
+## Figma campaign designs
+
+**[Open the editable Pango designs in Figma](https://www.figma.com/design/BxZFyUx1DTxEwEXugZwpEe?node-id=2-2)**
+
+The design set extends the acquisition project into three branded concepts:
+
+| Design created | Purpose |
+| :--- | :--- |
+| Footwear and apparel landing page | Present the post-purchase proposition to the chosen vertical and provide a route to a demo |
+| Product-introduction email | Connect delivery, tracking and returns with the customer experience after checkout |
+| Demo-invitation email | Invite a prospect to bring one workflow or handoff to a product conversation |
+
+The concepts use Pango's logo, cream palette, dark buttons and purple accents. Inter is an explicitly noted substitute for Aeonik Pro, which was unavailable in the design environment.
+
+The emails are concepts for use after permission or expressed interest, distinct from the prospecting sequence in the campaign playbook. Sender details, footer links and destinations require production setup. These are editable Figma layouts developed with AI assistance, not deployed pages or sent campaigns.
+
 ## Open the actual deliverables
 
 | Created artifact | What a reviewer can inspect |
 | :--- | :--- |
+| [Figma design set](https://www.figma.com/design/BxZFyUx1DTxEwEXugZwpEe?node-id=2-2) | Vertical landing page, product-introduction email and demo-invitation email |
 | [Strategy and founder intake](pango/strategy-and-intake.md) | Audience hypothesis, account-fit criteria, two positioning angles and five discovery questions |
 | [Ten-account research shortlist](pango/prospect-research.md) | Named candidate brands, public sources, observations and the tracker structure |
 | [Campaign playbook](pango/campaign-playbook.md) | Initial email, two follow-ups, three tailored brand examples, reply handling and demo handoff |
@@ -75,7 +92,7 @@ The draft suggests three qualified conversations from the full cohort as a possi
 
 ## Completed versus proposed
 
-**Created:** opportunity brief, ten sourced research records, account criteria, founder questions, three-touch sequence, three personalized examples, reply playbook, handoff template, Notion tracker, four-week plan, scorecard and final-learning memo framework.
+**Created:** editable Figma landing-page and email concepts, opportunity brief, ten sourced research records, account criteria, founder questions, three-touch sequence, three personalized examples, reply playbook, handoff template, Notion tracker, four-week plan, scorecard and final-learning memo framework.
 
 **Not completed:** founder-approved engagement, prospect sending, qualified conversations, demos or measured growth.
 

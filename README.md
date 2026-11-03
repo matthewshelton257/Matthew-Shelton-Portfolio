@@ -26,7 +26,7 @@ A complete acquisition package for footwear and apparel brands: ten researched a
 
 Independent proposal developed with AI assistance. Research and assets are complete; no prospect campaign or measured results are claimed.
 
-**[Read the case study and created assets](case-studies/pango.md)**
+**[View the Figma designs](https://www.figma.com/design/BxZFyUx1DTxEwEXugZwpEe?node-id=2-2)** · [Read the case study and created assets](case-studies/pango.md)
 
 ### 02 · Illume: from first insight to first conversation
 **Product walkthrough · Activation · Lifecycle and interface copy**
@@ -35,7 +35,7 @@ A hands-on walkthrough translated into a first-reply activation proposal. Includ
 
 Independent research and AI-assisted proposal. Observations come from one account; changes have not been deployed and no lift is claimed.
 
-**[Explore the walkthrough, copy and experiment](case-studies/illume.md)**
+**[View the Figma designs](https://www.figma.com/design/Rhk6OdhcG6vIbMKSTIRBio?node-id=4-136)** · [Explore the walkthrough, copy and experiment](case-studies/illume.md)
 
 ### 03 · Ray: from first workout to repeat behavior
 **Growth strategy · First-week lifecycle · Figma email concepts**

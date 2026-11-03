@@ -9,15 +9,33 @@ A hands-on product exploration and prepared activation project focused on the mo
 
 **Contribution:** Matthew used the product, connected wearable history, inspected the experience and tested a conversational chart request. The research synthesis, message drafts and Notion proposal were developed with AI assistance.
 
+## Figma email and landing-page designs
+
+**[Open the editable Illume designs in Figma](https://www.figma.com/design/Rhk6OdhcG6vIbMKSTIRBio?node-id=4-136)**
+
+[![Illume concepts: welcome email, desktop and mobile activation landing page and chart-ready email](../assets/illume/figma-designs.png)](https://www.figma.com/design/Rhk6OdhcG6vIbMKSTIRBio?node-id=4-136)
+
+| Design created | Purpose |
+| :--- | :--- |
+| Welcome email | Introduce Taro and give a new user a concrete first question |
+| Desktop activation landing page | Explain the path from connected data to a useful conversation and deeper exploration |
+| Mobile activation landing page | Adapt the same journey for a narrow screen |
+| Chart-ready email | Show a proposed return path to Signals after verified chart completion |
+
+The visual direction uses warm black, cream and amber with Fraunces headlines and conversational copy. The layouts extend the earlier walkthrough and written recommendations into editable visual concepts developed with AI assistance.
+
+The chart-ready email is a proposed notification, not evidence that the unresolved chart request completed. Sending it would require a verified completion event and supported email behavior. These concepts have not been deployed.
+
 ## Open the created assets
 
 | Created artifact | What it contains |
 | :--- | :--- |
+| [Figma design set](https://www.figma.com/design/Rhk6OdhcG6vIbMKSTIRBio?node-id=4-136) | Welcome email, desktop/mobile activation landing page and chart-ready email |
 | [Message and interface copy](illume/message-and-interface-copy.md) | First-insight introduction, reply prompt, Signals empty state and chart pending/ready/error messages |
 | [Evidence log and experiment brief](illume/experiment-and-evidence.md) | Observations, qualifications, chart-test status, activation metrics, eligibility and a four-week plan |
 | This case study | Strategic reasoning, research boundaries and the connection between the assets |
 
-The original project was assembled as a Notion brief with recommendations, source notes, task checklists and a research appendix. These public extracts make the substantive work accessible without a Notion login. They are written recommendations, not implemented product screens.
+The original project was assembled as a Notion brief with recommendations, source notes, task checklists and a research appendix. These public extracts make the substantive work accessible without a Notion login. The written recommendations are accompanied by the editable Figma concepts above. Neither the recommendations nor the designs are implemented product changes.
 
 ## Start with the value that already worked
 
@@ -85,7 +103,7 @@ The key discipline was separating observed behavior, interpretation and a hypoth
 
 ## Completed versus proposed
 
-**Created:** product-journey observations, a chart-request test log, an activation journey, message drafts, interface-state recommendations, experiment definitions, a four-week proposal, founder questions and a structured Notion project hub.
+**Created:** editable Figma email and landing-page concepts, product-journey observations, a chart-request test log, an activation journey, message drafts, interface-state recommendations, experiment definitions, a four-week proposal, founder questions and a structured Notion project hub.
 
 **Observed:** imported history, proactive insight delivery and a chart-request acknowledgment.
 

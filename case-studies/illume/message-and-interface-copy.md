@@ -2,6 +2,8 @@
 
 Prepared recommendations from the October 29, 2026 product walkthrough. AI-assisted drafts for an independent proposal, not deployed Illume communications. Product states, supported actions and links require confirmation before implementation.
 
+**[View the complementary email and landing-page designs in Figma](https://www.figma.com/design/Rhk6OdhcG6vIbMKSTIRBio?node-id=4-136)**. The visual concepts extend this copy work; they are not deployed product screens.
+
 ## First automatic insight: sender introduction and reply prompt
 
 Combine with the existing insight rather than sending an additional message.
