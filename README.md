@@ -19,28 +19,38 @@ These are separate reported outcomes from professional work, not isolated experi
 
 ## Selected projects
 
-### 01 · Customer Voice → Campaign Brief
-**Working tool · AI-assisted development · Synthetic data**
+### 01 · Pango: a focused B2B acquisition pilot
+**Account research · Outbound campaign development · Pipeline planning**
 
-Turn customer-review text into a reviewable messaging brief while keeping customer needs separate from product capabilities. The workflow preserves source quotes, rejects invalid references and declines to draft when evidence is too thin.
+A complete acquisition package for footwear and apparel brands: ten researched accounts, a three-touch sequence, three tailored email examples, a working Notion prospect tracker and a four-week measurement plan.
 
-The default runs offline with rules and templates. An optional local-model adapter is included; live inference remains unverified. The repository includes sample outputs and automated tests.
+Independent proposal developed with AI assistance. Research and assets are complete; no prospect campaign or measured results are claimed.
 
-**[Read the sample output](https://github.com/matthewshelton257/customer-voice-to-campaign/blob/main/examples/brief.md)** · [Explore the tool](https://github.com/matthewshelton257/customer-voice-to-campaign)
+**[Read the case study and created assets](case-studies/pango.md)**
 
-### 02 · Ray: from first workout to repeat behavior
-**Independent growth & lifecycle strategy · Not commissioned or deployed**
+### 02 · Illume: from first insight to first conversation
+**Product walkthrough · Activation · Lifecycle and interface copy**
 
-A proposed 90-day plan connecting acquisition promises with activation, repeat use and return journeys. Includes behavioral email triggers, suppression rules, Figma concepts and experiment definitions that measure completed actions.
+A hands-on walkthrough translated into a first-reply activation proposal. Includes an evidence log, onboarding copy, Signals empty-state guidance, chart-status messages and a defined experiment.
+
+Independent research and AI-assisted proposal. Observations come from one account; changes have not been deployed and no lift is claimed.
+
+**[Explore the walkthrough, copy and experiment](case-studies/illume.md)**
+
+### 03 · Ray: from first workout to repeat behavior
+**Growth strategy · First-week lifecycle · Figma email concepts**
+
+A proposed 90-day plan connecting acquisition with activation, repeat use and return journeys. Includes desktop and mobile Figma concepts, behavioral triggers, suppression rules and experiments focused on completed actions.
+
+Independent strategy, not commissioned by or affiliated with Ray. No deployment or measured results claimed.
 
 **[View the strategy and email mockups](case-studies/ray.md)**
 
-### 03 · AI Lifecycle Studio
-**Working workflow demo · Authored samples · No live AI calls**
+## Working tools
 
-Inspect a three-email activation sequence, introduce deliberate failures and review the resulting checks before exporting a draft. Changing inputs resets approval, making the human-review step part of the workflow.
+**[Customer Voice → Campaign Brief](https://github.com/matthewshelton257/customer-voice-to-campaign)** turns synthetic reviews into evidence-linked messaging. Built with AI assistance; the default uses rules and templates. Optional local-model inference remains unverified. [Read the sample output](https://github.com/matthewshelton257/customer-voice-to-campaign/blob/main/examples/brief.md).
 
-**[Explore the demo and walkthrough](ai-lifecycle-studio/README.md)**
+**[AI Lifecycle Studio](ai-lifecycle-studio/README.md)** demonstrates campaign validation, deliberate failure cases, human review and local exports. Working sample mode with no live AI calls.
 
 ## How I approach growth
 
