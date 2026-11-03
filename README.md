@@ -13,7 +13,7 @@ I connect customer insight with acquisition, activation, conversion and retentio
 | :--- | :--- |
 | **Heelys / BBC International** | Integrated growth initiatives contributing to **100%+ sales growth** and **75%+ sell-through improvement** |
 | **DVS international relaunch** | **12 distributor markets**, **three product seasons** and work contributing to **150%+ brand-awareness growth** |
-| **Simple Shoes** | Footwear brand experience within my consumer-marketing background |
+| **Simple Shoes international relaunch** | International brand relaunch, bringing my footwear and consumer-marketing experience to a renewed market presence |
 | **Freelance** | Independent growth projects spanning customer research, acquisition strategy, lifecycle messaging and campaign development |
 
 The quantified outcomes above reflect separate professional initiatives, not isolated experiment results or sole attribution. Freelance projects are described individually below, including their current status. [Read the experience summaries](case-studies/consumer-growth.md).
