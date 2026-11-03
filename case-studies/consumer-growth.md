@@ -21,9 +21,9 @@ Matthew led the international DVS relaunch across 12 distributor markets and thr
 
 This experience brings a practical perspective on scaling: connect a shared brand direction with the needs of individual markets, partners and customer journeys. The public summary does not claim market-by-market outcomes or disclose internal campaign data.
 
-## Simple Shoes · Footwear brand experience
+## Simple Shoes · International relaunch
 
-Simple Shoes is part of Matthew's consumer-brand background. This portfolio does not attribute the Heelys or DVS results to Simple Shoes.
+Matthew worked on the international relaunch of Simple Shoes, applying his footwear and consumer-marketing experience to the brand's renewed market presence.
 
 ## Freelance · Growth and lifecycle projects
 
