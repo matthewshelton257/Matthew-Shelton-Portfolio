@@ -1,125 +1,57 @@
-# Illume Labs
-## From first insight to first conversation
+# Illume · From an automatic insight to a first conversation
 
-**Product walkthrough · Activation · Lifecycle messaging · UX copy · Experiment design**
+I created an Illume account, connected my wearable history and received an automatic insight. I hadn’t asked a question yet. I then replied to Taro with a chart request and checked Signals for the result.
 
-A hands-on product exploration and prepared activation project focused on the moment after a new wearable-connected user receives a useful insight: recognizing the sender, asking a question and understanding what happens next.
+That experience gave this project a specific starting point: what helps someone act on an insight they already find interesting?
 
-**Status:** Independent research and four-week project proposal. Not commissioned or implemented by Illume. One account walkthrough informed the work; no activation or retention improvement is claimed.
+**Project status:** Independent walkthrough and activation proposal. My contribution includes using the product, sharing observations and testing the chart request. AI assisted with research synthesis, recommendations, copy and Figma production. No product changes or experiments have launched.
 
-**Contribution:** Matthew used the product, connected wearable history, inspected the experience and tested a conversational chart request. The research synthesis, message drafts and Notion proposal were developed with AI assistance.
+## Designs and supporting work
 
-## Figma email and landing-page designs
+**[Open the editable Figma designs](https://www.figma.com/design/Rhk6OdhcG6vIbMKSTIRBio?node-id=4-136)**
 
-**[Open the editable Illume designs in Figma](https://www.figma.com/design/Rhk6OdhcG6vIbMKSTIRBio?node-id=4-136)**
+[![Illume welcome email, desktop and mobile landing page and chart-ready email](../assets/illume/figma-designs.png)](https://www.figma.com/design/Rhk6OdhcG6vIbMKSTIRBio?node-id=4-136)
 
-[![Illume concepts: welcome email, desktop and mobile activation landing page and chart-ready email](../assets/illume/figma-designs.png)](https://www.figma.com/design/Rhk6OdhcG6vIbMKSTIRBio?node-id=4-136)
+The set contains a welcome email, desktop/mobile activation landing page and chart-ready email concept. Warm black, cream and amber carry through the layouts, with Fraunces headlines.
 
-| Design created | Purpose |
-| :--- | :--- |
-| Welcome email | Introduce Taro and give a new user a concrete first question |
-| Desktop activation landing page | Explain the path from connected data to a useful conversation and deeper exploration |
-| Mobile activation landing page | Adapt the same journey for a narrow screen |
-| Chart-ready email | Show a proposed return path to Signals after verified chart completion |
+[Read the message drafts](illume/message-and-interface-copy.md) · [Inspect the evidence log and experiment](illume/experiment-and-evidence.md)
 
-The visual direction uses warm black, cream and amber with Fraunces headlines and conversational copy. The layouts extend the earlier walkthrough and written recommendations into editable visual concepts developed with AI assistance.
+## The observation that changed the direction
 
-The chart-ready email is a proposed notification, not evidence that the unresolved chart request completed. Sending it would require a verified completion event and supported email behavior. These concepts have not been deployed.
+An empty-looking dashboard initially raised a question about whether insights were reaching the user. The automatic text showed that they were reaching me.
 
-## Open the created assets
+That changed the focus of the proposal. Rather than treat this as missing insight, the brief addresses the handoff between the text conversation and the app: recognizing Taro, knowing what to ask and finding a requested chart.
 
-| Created artifact | What it contains |
-| :--- | :--- |
-| [Figma design set](https://www.figma.com/design/Rhk6OdhcG6vIbMKSTIRBio?node-id=4-136) | Welcome email, desktop/mobile activation landing page and chart-ready email |
-| [Message and interface copy](illume/message-and-interface-copy.md) | First-insight introduction, reply prompt, Signals empty state and chart pending/ready/error messages |
-| [Evidence log and experiment brief](illume/experiment-and-evidence.md) | Observations, qualifications, chart-test status, activation metrics, eligibility and a four-week plan |
-| This case study | Strategic reasoning, research boundaries and the connection between the assets |
+## Three moments worth improving
 
-The original project was assembled as a Notion brief with recommendations, source notes, task checklists and a research appendix. These public extracts make the substantive work accessible without a Notion login. The written recommendations are accompanied by the editable Figma concepts above. Neither the recommendations nor the designs are implemented product changes.
+**Recognizing the sender.** The visible text did not introduce Taro and my phone showed an unknown-sender notice. That is a reason to review sender recognition, not evidence of a delivery problem. Other onboarding surfaces might already contain an introduction.
 
-## Start with the value that already worked
-
-The walkthrough documented a proactive insight that interested Matthew. Wearable history had imported and Taro acknowledged a follow-up chart request.
-
-That matters because the proposed growth opportunity was not “send more reminders.” It was to make the next useful action clearer after an existing moment of value.
-
-**Proposed journey:** automatic insight → first meaningful reply → useful answer or chart → continued engagement.
-
-A dashboard visit is useful when it helps the user explore something. It is not a required step in every successful interaction.
-
-## The product questions uncovered
-
-### Recognition: who is speaking?
-
-The visible first text did not introduce Taro. The phone also displayed an unknown-sender notice. That suggested testing an introduction and a clear invitation to reply, while recognizing that other onboarding surfaces might already introduce the sender.
-
-### Action: what can I ask?
-
-Signals explained that charts originate in a conversation, but the reviewed state had no visible start-conversation button or example prompt. The proposed empty state connects an abstract capability to a concrete request.
-
-### Feedback: what happened to my request?
-
-Taro acknowledged the chart request. Matthew did not see a completed chart in Signals after repeated refreshes during the walkthrough. The saved research did not establish final completion or total wait time.
-
-The recommendation was a distinct received, preparing, ready or unable-to-complete state based on actual backend events. The evidence supports investigating state visibility, not declaring a system-wide failure.
-
-### Consistency: what does the dashboard mean?
-
-Generic setup guidance and an analysis-pending state appeared alongside connected history elsewhere. The proposal calls for confirming account-state logic before replacing that guidance. It also distinguishes a reported WHOOP-side issue from an Illume product defect.
-
-## Selected copy created
-
-### First-insight wrapper
-
-> Hi, I'm Taro, your Illume companion. This observation uses your connected wearable history. Want to explore it? Reply with a question or ask me to chart the comparison.
-
-This would accompany the existing insight, with no additional message assumed.
-
-### Signals empty state
+**Knowing what to ask.** Signals explained that charts start in a Taro conversation. The reviewed state did not show an example prompt or visible start-conversation action. The proposed copy makes that step concrete:
 
 > **Your charts start with a conversation**
 >
 > Ask Taro to visualize something in your connected data. Try: “Chart my recent sleep history and show the dates used.” Completed charts appear here.
 
-**Proposed action:** Open Taro conversation.
+**Understanding request status.** Taro acknowledged my chart request, but I did not see a completed chart after refreshing Signals during the walkthrough. The saved notes do not establish the final result or total wait time. The recommendation is to show received, preparing, ready and failed states when the backend can confirm them.
 
-The full [copy pack](illume/message-and-interface-copy.md) includes pending, ready and error states with implementation conditions. It avoids invented wait estimates and unverified notification promises.
+The chart-ready email is a concept for that last step. It does not mean my request completed.
 
-## The first test
+## The first experiment in the proposal
 
-Compare the existing first insight with the same insight plus a concise introduction and one relevant reply prompt.
+Keep the existing insight and test a short sender introduction plus one relevant reply prompt.
 
-The proposed primary measure is a meaningful reply within 48 hours of confirmed delivery. Relevant questions and context contributions count; opt-outs and simple acknowledgments do not. The next question is whether a useful response leads to another meaningful interaction within seven days.
+The proposed primary measure is a meaningful reply within 48 hours of confirmed delivery. A relevant question or added context counts; “thanks” and opt-outs do not. A second useful interaction within seven days would help assess whether the first exchange led anywhere.
 
-Chart completion and waiting times are tracked for chart requesters only. Opt-outs, complaints, duplicate requests and support contacts act as guardrails. Plan eligibility and event availability must be established before launch.
+Chart-status changes would be tested separately. Opt-outs, negative feedback and support requests would be monitored alongside engagement.
 
-The proposal keeps first-message changes separate from chart-status changes so the team can interpret what drove an outcome.
+This needs baseline data, confirmed messaging eligibility and sufficient user volume before it can run. The [experiment brief](illume/experiment-and-evidence.md) contains the definitions and four-week plan.
 
-## Research judgment
+## What remains open
 
-The research combined a direct account walkthrough with public product positioning and a small amount of adjacent-category feedback. WHOOP community and Reddit commentary informed questions about contextual help, tone and user control. It was not treated as Illume customer research or a representative survey.
+The saved walkthrough did not resolve chart completion, the full onboarding sequence or plan-specific behavior. It covered one account. Broader category feedback helped form questions, but it was not treated as Illume customer research.
 
-The key discipline was separating observed behavior, interpretation and a hypothesis to test. One person's walkthrough can identify useful questions; it cannot establish a conversion baseline or company-wide prevalence.
+The concrete output is a documented walkthrough, revised problem definition, copy pack, design set and test proposal.
 
-## Completed versus proposed
+Research snapshot: October 29, 2026. [Illume website](https://www.illumelabs.ai/) · [Product Hunt listing](https://www.producthunt.com/products/illume-labs)
 
-**Created:** editable Figma email and landing-page concepts, product-journey observations, a chart-request test log, an activation journey, message drafts, interface-state recommendations, experiment definitions, a four-week proposal, founder questions and a structured Notion project hub.
-
-**Observed:** imported history, proactive insight delivery and a chart-request acknowledgment.
-
-**Unresolved:** chart completion, total latency, full onboarding coverage and plan-specific behavior.
-
-**Not completed:** founder-approved engagement, production changes, user interviews, experiment launch or measured lift.
-
-## Research basis
-
-Research snapshot: October 29, 2026. Portfolio extract prepared November 3, 2026.
-
-- [Illume public website](https://www.illumelabs.ai/)
-- [Illume Product Hunt listing](https://www.producthunt.com/products/illume-labs)
-- [WHOOP Reddit discussion used as category context](https://www.reddit.com/r/whoop/comments/1trcnbf/whoop_coach/)
-- [WHOOP community discussion used as category context](https://www.community.whoop.com/t/the-new-whoop-coach-feels-very-different-and-not-in-a-good-way/15960)
-
-These are source references from the original project research. Product behavior and availability may have changed since that snapshot.
-
-[Pango acquisition project](pango.md) · [Ray lifecycle strategy](ray.md) · [Back to portfolio](../README.md)
+[Back to portfolio](../README.md)

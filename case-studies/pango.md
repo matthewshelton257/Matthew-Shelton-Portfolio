@@ -1,109 +1,54 @@
-# Pango
-## Turning account research into a focused acquisition pilot
+# Pango · A footwear and apparel acquisition pilot
 
-**B2B acquisition · Account research · Campaign development · Pipeline measurement**
+My footwear and ecommerce background made Pango a relevant company to approach. I sent the founder an introduction offering a focused acquisition project. The package below makes that offer concrete.
 
-A prepared footwear and apparel acquisition project connecting Matthew's consumer-brand background with a concrete early-stage GTM question: can a message grounded in a brand's public post-purchase workflow create a useful sales conversation?
+**Project status:** Independent proposal. Research and creative assets are prepared; no prospect campaign has launched. I selected the opportunity and sent the founder introduction. AI assisted with research compilation, strategy drafting, copy and Figma production.
 
-**Status:** Independent proposal, not an active client engagement. Ten candidate accounts researched, campaign assets prepared and a working Notion tracker created. No prospect campaign launched and no pipeline or revenue results claimed.
+## The work
 
-**Contribution:** Matthew selected the opportunity, shaped the offer around footwear and apparel and reported sending the initial founder introduction. Research compilation, campaign drafts and Notion project materials were developed with AI assistance.
+**[Open the landing page and email designs](https://www.figma.com/design/BxZFyUx1DTxEwEXugZwpEe?node-id=2-2)**
 
-## Figma campaign designs
-
-**[Open the editable Pango designs in Figma](https://www.figma.com/design/BxZFyUx1DTxEwEXugZwpEe?node-id=2-2)**
-
-The design set extends the acquisition project into three branded concepts:
-
-| Design created | Purpose |
+| Asset | Contents |
 | :--- | :--- |
-| Footwear and apparel landing page | Present the post-purchase proposition to the chosen vertical and provide a route to a demo |
-| Product-introduction email | Connect delivery, tracking and returns with the customer experience after checkout |
-| Demo-invitation email | Invite a prospect to bring one workflow or handoff to a product conversation |
+| [Account research](pango/prospect-research.md) | Ten candidate brands with policy sources and recorded observations |
+| [Campaign playbook](pango/campaign-playbook.md) | Three-touch sequence, three tailored examples and reply handling |
+| [Strategy and founder questions](pango/strategy-and-intake.md) | Proposed segment, account-fit checks and information needed before launch |
+| [Execution plan](pango/delivery-and-measurement.md) | Four-week scope, qualification rules and a results scorecard |
 
-The concepts use Pango's logo, cream palette, dark buttons and purple accents. Inter is an explicitly noted substitute for Aeonik Pro, which was unavailable in the design environment.
+The Figma set includes a footwear-and-apparel landing page, product-introduction email and demo-invitation email. It uses Pango’s cream palette, dark buttons and purple accents. Inter substitutes for the unavailable Aeonik Pro font.
 
-The emails are concepts for use after permission or expressed interest, distinct from the prospecting sequence in the campaign playbook. Sender details, footer links and destinations require production setup. These are editable Figma layouts developed with AI assistance, not deployed pages or sent campaigns.
+## What the research showed
 
-## Open the actual deliverables
+The ten-account shortlist includes Thursday Boot Company, Taos, Nisolo, Rothy’s, Mizzen+Main, Marine Layer, Taylor Stitch, Pact, Rhone and Public Rec.
 
-| Created artifact | What a reviewer can inspect |
-| :--- | :--- |
-| [Figma design set](https://www.figma.com/design/BxZFyUx1DTxEwEXugZwpEe?node-id=2-2) | Vertical landing page, product-introduction email and demo-invitation email |
-| [Strategy and founder intake](pango/strategy-and-intake.md) | Audience hypothesis, account-fit criteria, two positioning angles and five discovery questions |
-| [Ten-account research shortlist](pango/prospect-research.md) | Named candidate brands, public sources, observations and the tracker structure |
-| [Campaign playbook](pango/campaign-playbook.md) | Initial email, two follow-ups, three tailored brand examples, reply handling and demo handoff |
-| [Delivery and measurement plan](pango/delivery-and-measurement.md) | Four-week scope, launch checks, funnel definitions, weekly scorecard and decision rules |
+Several brands already described established returns tools or multiple return options. That matters: a policy page can tell us how a process is presented to customers, but it cannot tell us whether the team is unhappy with its tools.
 
-These GitHub versions make the existing project materials readable without access to the original private Notion workspace.
+The resulting campaign asks about coordination between steps. It does not assume a broken returns process or promise a replacement system.
 
-## The business question
+## A concrete example
 
-The original research used Pango's public positioning around delivery, tracking and returns plus its YC introduction request for consumer brands. The project narrowed that broad opportunity to footwear and apparel operators, an audience connected to Matthew's professional experience.
+Thursday Boot Company’s policy distinguished a return request from warehouse processing. The draft turns that observation into a question:
 
-The hypothesis was specific: a researched question about a real workflow would produce more useful conversations than a generic AI-platform pitch. It was not a claim that a prospect's returns process was broken.
+> Is keeping the customer update aligned with the warehouse return status already straightforward for your team or is there a handoff you’d like to simplify?
 
-## What the account research changed
+The other tailored examples address Mizzen+Main’s different eligibility windows and Marine Layer’s store/mail return paths. The [full playbook](pango/campaign-playbook.md) shows the copy and its research basis.
 
-The shortlist contains Thursday Boot Company, Taos, Nisolo, Rothy's, Mizzen+Main, Marine Layer, Taylor Stitch, Pact, Rhone and Public Rec.
+The Figma emails serve a different moment: a product introduction or demo invitation after permission or expressed interest. They are not substitutes for the prospecting sequence.
 
-Several policies already referenced return tools or multiple established pathways. That finding shaped the message: ask about coordination between steps rather than assume the brand needs a new returns system.
+## How the pilot would run
 
-The proposed first cohort was footwear. Apparel examples were prepared as a separate option rather than mixed into the same small test. Each account would need product-fit and evidence-quality checks before launch, with commercial unknowns kept as discovery questions.
+The prepared Notion tracker holds one company per record, with a source, observation, proposed buyer role, next action and pipeline stage. All ten accounts were still at Research in the saved project snapshot.
 
-## Campaign assets
+Before any sending, the founder would need to confirm product fit, existing relationships, exclusions and sender representation. The draft emails’ collaborator language is conditional on that agreement.
 
-The core sequence contains an initial note and two follow-ups. The first follow-up is proposed four business days after the initial send; the second follows five business days later. Replies or opt-outs stop the sequence.
+The proposed scope is four weeks at roughly five hours per week. Start with ten cleared accounts and expand only if the early replies and product fit justify it. The 30–40 account ceiling is a planning limit, not work already completed.
 
-Two message angles were prepared:
+The scorecard follows delivered accounts, positive replies, qualified conversations and demos held. A wrong-person referral would not count as qualified interest. A small cohort would provide useful objections and language to examine, not a reliable claim that one message won.
 
-- **Coordination:** where do exceptions require information to move between tools or teams?
-- **Exchange journey:** how are eligibility, shipment status and customer updates kept aligned?
+## What this project establishes
 
-Three complete personalized examples translate public research into an opening question:
+There is a sourced account list, campaign copy, an operating tracker and designed assets to review. Founder approval, prospect responses and campaign results remain the next stage.
 
-| Brand | Observation used | Conversation opened |
-| :--- | :--- | :--- |
-| Thursday Boot Company | Return requests and warehouse processing are distinct stages | Is customer communication aligned with warehouse return status? |
-| Mizzen+Main | Refund and exchange/store-credit eligibility differ | How are eligibility rules and customer updates coordinated? |
-| Marine Layer | Online, store and outlet return routes differ | Is there a handoff between return paths that could be simpler? |
+Research snapshot: October 29, 2026. Policy observations need rechecking before use. [Pango website](https://pango.ai/) · [YC profile](https://www.ycombinator.com/companies/pango)
 
-### Selected draft excerpt
-
-> Is keeping the customer update aligned with the warehouse return status already straightforward for your team or is there a handoff you'd like to simplify?
-
-The wording leaves room for the prospect to say the process already works. The full drafts include conditional collaborator language that must not be used unless an engagement and sender representation are approved.
-
-## A working operating structure
-
-The project included a Notion database with research, pipeline and follow-up views. Records hold evidence, proposed buyer roles, clearance status, message versions and next actions. No contact details were guessed.
-
-Reply handling separates interest, incumbent-tool objections, wrong-person replies, timing objections, opt-outs, technical questions and automated responses. Interested replies would be handed to the founder with the source observation, the prospect's expressed need and remaining fit questions.
-
-## Measurement before volume
-
-The pilot proposes approximately five hours a week for four weeks. Ten researched accounts are the starting assets. Expansion to 30–40 cleared accounts is a proposed ceiling after agreement, not completed work or a promised output.
-
-**Funnel:** attempted accounts → delivered accounts → human replies → positive replies → qualified conversations → demos booked → demos held.
-
-A qualified conversation requires confirmed fit, a relevant owner or champion, an expressed need and an agreed substantive next step. A referral to another contact is not automatically qualified interest. A demo booking is not a held demo.
-
-The draft suggests three qualified conversations from the full cohort as a possible operating threshold to agree with the founder. It is not a forecast or a benchmark. With a small cohort, the readout would report counts, objections and limitations rather than claim a statistically reliable winning message.
-
-## Completed versus proposed
-
-**Created:** editable Figma landing-page and email concepts, opportunity brief, ten sourced research records, account criteria, founder questions, three-touch sequence, three personalized examples, reply playbook, handoff template, Notion tracker, four-week plan, scorecard and final-learning memo framework.
-
-**Not completed:** founder-approved engagement, prospect sending, qualified conversations, demos or measured growth.
-
-The outcome so far is a concrete acquisition package ready for review. The project demonstrates the ability to turn a broad growth idea into inspectable research, copy and an execution plan.
-
-## Research basis
-
-Research snapshot: October 29, 2026. Portfolio prepared from the saved project materials on November 3, 2026.
-
-- [Pango product website](https://pango.ai/)
-- [Pango YC company and launch page](https://www.ycombinator.com/companies/pango)
-- [Ten brand-owned policy sources](pango/prospect-research.md)
-
-[Illume activation project](illume.md) · [Ray lifecycle strategy](ray.md) · [Back to portfolio](../README.md)
+[Back to portfolio](../README.md)

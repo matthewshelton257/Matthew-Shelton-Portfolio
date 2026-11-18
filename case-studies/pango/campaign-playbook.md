@@ -6,7 +6,7 @@
 Drafts for review. Matthew is not yet authorized to represent Pango. Replace bracketed fields and confirm all product claims before sending. Sources for personalized observations are in each prospect record.
 
 
-## Initial email : coordination angle
+## Initial email · coordination angle
 
 **Subject:** [Brand]’s returns workflow
 
@@ -23,14 +23,14 @@ If it’s relevant, I can connect you with Steve for a short look at your workfl
 Best,
 Matthew
 
-## Alternative opening : exchange journey
+## Alternative opening · exchange journey
 
 Use the same subject, sender and call to action; replace the middle paragraph with:
 “Pango brings delivery, tracking and returns into one platform. We’re exploring how apparel and footwear teams keep exchange eligibility, shipment status and customer updates aligned.”
 
 Do not vary the subject, audience and offer simultaneously if comparing these angles.
 
-## Follow-up 1 : four business days after initial send
+## Follow-up 1 · four business days after initial send
 
 Hi [First name],
 
@@ -41,13 +41,13 @@ If someone else owns this, a pointer would be appreciated.
 Best,
 Matthew
 
-## Follow-up 2 : five business days later
+## Follow-up 2 · five business days later
 
 Hi [First name],
 
 I’ll close the loop here. If reviewing shipping, tracking or returns becomes a priority, I’d be happy to arrange a conversation with Steve at Pango.
 
-If the current setup is working well, understood:no need to reply.
+If the current setup is working well, understood. No need to reply.
 
 Best,
 Matthew
@@ -133,7 +133,7 @@ Matthew
 **Requested next step and timing:**
 **Message history:**
 
-## Founder follow-up : draft, not sent
+## Founder follow-up · draft, not sent
 
 **Subject:** Re: Growth project idea for Pango
 

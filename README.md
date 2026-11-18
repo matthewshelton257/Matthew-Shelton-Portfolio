@@ -3,70 +3,56 @@
 # Matthew Shelton
 ### Growth & Lifecycle Marketer
 
-I connect customer insight with acquisition, activation, conversion and retention. My 6+ years in consumer growth span integrated campaigns, international go-to-market work and cross-functional execution. My independent projects apply that experience to lifecycle strategy, experimentation and AI-assisted marketing tools.
+I’ve spent 6+ years in growth and lifecycle marketing across consumer brands, including footwear, apparel and ecommerce. My experience includes Heelys growth initiatives and international relaunch work for DVS and Simple Shoes.
 
-**[Start here: selected work for growth marketing](START-HERE.md)** · [LinkedIn](https://www.linkedin.com/in/mattshelton2000/)
+The projects below bring that background into customer acquisition, product onboarding and lifecycle messaging.
+
+[LinkedIn](https://www.linkedin.com/in/mattshelton2000/) · [Quick portfolio overview](START-HERE.md)
+
+## Selected work
+
+### Pango · Finding a useful reason to start a sales conversation
+
+A footwear and apparel acquisition proposal with ten researched brands, outreach copy and a prospect tracker. The research focuses on specific shipping and returns workflows rather than assuming a brand needs another tool.
+
+**[Case study and campaign assets](case-studies/pango.md)** · [Landing page and email designs](https://www.figma.com/design/BxZFyUx1DTxEwEXugZwpEe?node-id=2-2)
+
+### Illume · What happens after the first useful insight?
+
+I connected my wearable, received an automatic insight and asked Taro for a chart. That walkthrough became an activation proposal covering sender recognition, the first reply and chart-request status.
+
+**[Walkthrough and recommendations](case-studies/illume.md)** · [Email and landing-page designs](https://www.figma.com/design/Rhk6OdhcG6vIbMKSTIRBio?node-id=4-136)
+
+### Ray · Helping someone start, then come back
+
+A growth and lifecycle proposal centered on two moments: completing a first workout and returning after a disrupted routine. Includes welcome and return email designs plus a proposed first-week journey.
+
+**[Strategy and email mockups](case-studies/ray.md)** · [Figma layouts](https://www.figma.com/design/e99rFNf5MD8VNKjVROExqw/?node-id=0-1)
+
+These are independent projects, not deployed client campaigns. Each case study explains the work completed and how AI contributed.
 
 ## Commercial experience
 
-| Work | Reported contribution |
+| Work | Contribution |
 | :--- | :--- |
 | **Heelys / BBC International** | Integrated growth initiatives contributing to **100%+ sales growth** and **75%+ sell-through improvement** |
-| **DVS international relaunch** | **12 distributor markets**, **three product seasons** and work contributing to **150%+ brand-awareness growth** |
-| **Simple Shoes international relaunch** | International brand relaunch, bringing my footwear and consumer-marketing experience to a renewed market presence |
-| **Freelance** | Independent growth projects spanning customer research, acquisition strategy, lifecycle messaging and campaign development |
+| **DVS** | International relaunch across **12 distributor markets and three product seasons**, contributing to **150%+ brand-awareness growth** |
+| **Simple Shoes** | Work on the brand’s international relaunch |
+| **Freelance / independent projects** | Customer research, acquisition proposals, lifecycle messaging and campaign assets |
 
-The quantified outcomes above reflect separate professional initiatives, not isolated experiment results or sole attribution. Freelance projects are described individually below, including their current status. [Read the experience summaries](case-studies/consumer-growth.md).
+The figures describe separate professional initiatives, not results from the projects above. [Read more about my experience](case-studies/consumer-growth.md).
 
-## Selected projects
+## Workflow experiments
 
-### 01 · Pango: a focused B2B acquisition pilot
-**Account research · Outbound campaign development · Pipeline planning**
+Alongside the marketing projects, I’ve used AI assistance to build two small demonstrations:
 
-A complete acquisition package for footwear and apparel brands: ten researched accounts, a three-touch sequence, three tailored email examples, a working Notion prospect tracker and a four-week measurement plan.
+- **[Customer Voice → Campaign Brief](https://github.com/matthewshelton257/customer-voice-to-campaign):** turns sample reviews into a messaging brief with references to the input.
+- **[AI Lifecycle Studio](ai-lifecycle-studio/README.md):** lets a reviewer inspect sample emails, introduce errors and check them before export.
 
-Independent proposal developed with AI assistance. Research and assets are complete; no prospect campaign or measured results are claimed.
-
-**[View the Figma designs](https://www.figma.com/design/BxZFyUx1DTxEwEXugZwpEe?node-id=2-2)** · [Read the case study and created assets](case-studies/pango.md)
-
-### 02 · Illume: from first insight to first conversation
-**Product walkthrough · Activation · Lifecycle and interface copy**
-
-A hands-on walkthrough translated into a first-reply activation proposal. Includes an evidence log, onboarding copy, Signals empty-state guidance, chart-status messages and a defined experiment.
-
-Independent research and AI-assisted proposal. Observations come from one account; changes have not been deployed and no lift is claimed.
-
-**[View the Figma designs](https://www.figma.com/design/Rhk6OdhcG6vIbMKSTIRBio?node-id=4-136)** · [Explore the walkthrough, copy and experiment](case-studies/illume.md)
-
-### 03 · Ray: from first workout to repeat behavior
-**Growth strategy · First-week lifecycle · Figma email concepts**
-
-A proposed 90-day plan connecting acquisition with activation, repeat use and return journeys. Includes desktop and mobile Figma concepts, behavioral triggers, suppression rules and experiments focused on completed actions.
-
-Independent strategy, not commissioned by or affiliated with Ray. No deployment or measured results claimed.
-
-**[View the strategy and email mockups](case-studies/ray.md)**
-
-## Working tools
-
-**[Customer Voice → Campaign Brief](https://github.com/matthewshelton257/customer-voice-to-campaign)** turns synthetic reviews into evidence-linked messaging. Built with AI assistance; the default uses rules and templates. Optional local-model inference remains unverified. [Read the sample output](https://github.com/matthewshelton257/customer-voice-to-campaign/blob/main/examples/brief.md).
-
-**[AI Lifecycle Studio](ai-lifecycle-studio/README.md)** demonstrates campaign validation, deliberate failure cases, human review and local exports. Working sample mode with no live AI calls.
-
-## How I approach growth
-
-Start with the customer problem. Define the behavior that would demonstrate value. Connect acquisition and lifecycle messaging to that behavior, then measure the outcome.
-
-I’m interested in work that combines customer research, practical automation and clear decisions about what to test next. My portfolio distinguishes professional outcomes from independent proposals and working demonstrations.
+Both run with predefined rules and sample data by default. They demonstrate workflow design, not production AI performance.
 
 <details>
-<summary>Additional writing, learning and experiments</summary>
-
-[Product and lifecycle copy](copywriting/README.md) includes Ray concepts plus clearly labeled AI-generated exercises for fictional products.
-
-[AI evaluation plan](ai-evaluation/README.md) contains a test prompt, rubric and evidence-capture templates. It is prepared for future testing; no model-comparison results are claimed.
-
-## Relevant learning
+<summary>Courses and certifications</summary>
 
 | Certification | Issuer | Completed |
 | :--- | :--- | :--- |
@@ -78,7 +64,6 @@ I’m interested in work that combines customer research, practical automation a
 | Claude Marketing | Claude Marketers | September 2026 |
 
 Explore my background and credentials on [LinkedIn](https://www.linkedin.com/in/mattshelton2000/).
-
 </details>
 
-**Let’s talk about growth, lifecycle marketing and practical AI workflows.** [Connect on LinkedIn](https://www.linkedin.com/in/mattshelton2000/).
+[Get in touch on LinkedIn](https://www.linkedin.com/in/mattshelton2000/).
